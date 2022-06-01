@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugreport>
+  <bugname>zaraza</bugname>
+  <severity>important</severity>
+  <priority>high</priority>
+  <environment>old_computer</environment>
+  <author>Ivanova</author>
+  <steps>open</steps>
+  <actual_result>nothing works</actual_result>
+  <expected_result>everything works</expected_result>
+ </bugreport>
