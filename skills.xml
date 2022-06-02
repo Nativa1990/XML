@@ -1,9 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8" ?>
-<array>
-  name="skills">
+<array name="skills">
   <item>professionalism</item>
   <item>awesomeness</item>
   <item>irresistability</item>
 </array>
-
